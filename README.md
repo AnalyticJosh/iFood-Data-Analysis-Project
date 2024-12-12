@@ -1,4 +1,4 @@
-# iFood Data Analytic Project
+# iFood Data Analysis Project
 
 ## **Overview**
 
